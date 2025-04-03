@@ -50,4 +50,42 @@ export const skills =[
   {
     title:"git &github"
   }
-]
+];
+export const testimonials = [
+  {
+    quote:
+      "Working with this team was an absolute pleasure. Their attention to detail and dedication to delivering high-quality results exceeded my expectations.",
+    image: "https://randomuser.me/api/portraits/women/1.jpg",
+    name: "Emily Johnson",
+    company: "TechNova Solutions",
+  },
+  {
+    quote:
+      "Their expertise in software development helped us launch our product ahead of schedule. I highly recommend their services!",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "Michael Smith",
+    company: "Innovatech Inc.",
+  },
+  {
+    quote:
+      "The level of professionalism and creativity they brought to the project was unmatched. We couldn't be happier with the outcome.",
+    image: "https://randomuser.me/api/portraits/women/2.jpg",
+    name: "Sophia Martinez",
+    company: "Creative Minds Agency",
+  },
+  {
+    quote:
+      "I've worked with many teams over the years, but none have matched the efficiency and clarity of communication as this one.",
+    image: "https://randomuser.me/api/portraits/men/2.jpg",
+    name: "David Brown",
+    company: "Global Tech Partners",
+  },
+  {
+    quote:
+      "They transformed our vision into reality with their innovative approach. Truly a game-changer for our business!",
+    image: "https://randomuser.me/api/portraits/women/3.jpg",
+    name: "Olivia Taylor",
+    company: "Visionary Ventures",
+  },
+];
+
