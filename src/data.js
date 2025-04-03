@@ -32,3 +32,22 @@ export const projects = [
     link: "https://pythonbootcamp.com",
   },
 ];
+export const skills =[
+  {
+    title: "Javascript"
+    
+
+  },
+  {
+    title: "HTML & CSS"
+  },
+  {
+    title: "React js"
+  },
+  {
+    title: "Next.js"
+  },
+  {
+    title:"git &github"
+  }
+]
