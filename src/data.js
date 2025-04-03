@@ -1,5 +1,6 @@
 export const projects = [
   {
+    id :0,
     title: "React Reserve",
     subtitle: "MERN Stack",
     description:
@@ -8,6 +9,7 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
+    id: 1,
     title: "React Tracks",
     subtitle: "React and Python",
     description:
@@ -16,6 +18,7 @@ export const projects = [
     link: "https://reedbarger.com",
   },
   {
+    id: 2,
     title: "DevChat",
     subtitle: "React and Firebase",
     description:
@@ -24,6 +27,7 @@ export const projects = [
     link: "https://jsbootcamp.com",
   },
   {
+    id: 3,
     title: "Epic Todo App",
     subtitle: "React Hooks",
     description:
@@ -34,6 +38,7 @@ export const projects = [
 ];
 export const skills =[
   {
+    
     title: "Javascript"
     
 
@@ -42,17 +47,21 @@ export const skills =[
     title: "HTML & CSS"
   },
   {
+  
     title: "React js"
   },
   {
+  
     title: "Next.js"
   },
   {
+
     title:"git &github"
   }
 ];
 export const testimonials = [
   {
+
     quote:
       "Working with this team was an absolute pleasure. Their attention to detail and dedication to delivering high-quality results exceeded my expectations.",
     image: "https://randomuser.me/api/portraits/women/1.jpg",
@@ -60,6 +69,7 @@ export const testimonials = [
     company: "TechNova Solutions",
   },
   {
+
     quote:
       "Their expertise in software development helped us launch our product ahead of schedule. I highly recommend their services!",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
@@ -74,6 +84,7 @@ export const testimonials = [
     company: "Creative Minds Agency",
   },
   {
+   
     quote:
       "I've worked with many teams over the years, but none have matched the efficiency and clarity of communication as this one.",
     image: "https://randomuser.me/api/portraits/men/2.jpg",
@@ -81,6 +92,7 @@ export const testimonials = [
     company: "Global Tech Partners",
   },
   {
+   
     quote:
       "They transformed our vision into reality with their innovative approach. Truly a game-changer for our business!",
     image: "https://randomuser.me/api/portraits/women/3.jpg",
